@@ -1,1 +1,1 @@
-# cpsc4810_project
+# for testing object detection
